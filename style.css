@@ -150,12 +150,12 @@ li>button.delete:hover {
 
 button.delete img {
   height: 2em;
-  transform: rotatez(45deg);
+  transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
 button.delete img:hover {
-  transform: rotatez(0);
+  transform: rotateZ(0);
 }
 
 /* completed */
